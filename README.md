@@ -50,11 +50,17 @@ npm run dev
 ```
 
 ### Extractor
+
 Input: raw HTML of interest rate pages
-Process: extract interest rate data
+
+Process: extracst interest rate data
+
 Output: store interest rate data
 
 ### Viewer
+
 Input: interest rate data
+
 Process: View
+
 No output
