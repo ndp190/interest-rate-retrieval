@@ -31,8 +31,8 @@ graph TB
 Connect to each other like this: Retriever > Extractor > Viewer
 
 ### Retriever
-Input: list of banks (fixed in code for now)
-Process: search for first result and get HTML content
+Input: list of banks (fixed in code for now)\
+Process: search for first result and get HTML content\
 Output: raw HTML of interest rate pages
 
 * Install
@@ -50,17 +50,11 @@ npm run dev
 ```
 
 ### Extractor
-
-Input: raw HTML of interest rate pages
-
-Process: extracst interest rate data
-
+Input: raw HTML of interest rate pages\
+Process: extracst interest rate data\
 Output: store interest rate data
 
 ### Viewer
-
-Input: interest rate data
-
-Process: View
-
+Input: interest rate data\
+Process: View\
 No output
