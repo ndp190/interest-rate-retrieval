@@ -37,8 +37,6 @@ Output: raw HTML of interest rate pages
 
 * Install
 
-in `retriever` folder
-
 ```sh
 # current directory: `retriever` folder
 npm i
